@@ -1,0 +1,3 @@
+python-metallum
+tinydb
+spotipy
