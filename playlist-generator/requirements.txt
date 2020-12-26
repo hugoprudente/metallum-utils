@@ -1,3 +1,5 @@
 python-metallum
 tinydb
 spotipy
+gspread
+oauth2client
